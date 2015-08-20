@@ -1,0 +1,112 @@
+body {
+  font-family: "Segoe UI";
+  background-image: url("http://i.imgur.com/hsLUdkn.jpg");
+  background-color: #000000;
+}
+
+.content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+/* HEADING */
+
+.header-content {
+  height: 100%;
+  color: lime;
+}
+
+header {
+  height: 5vw;
+  max-height: 150px;
+  max-width: 1200px;
+  width: 100%;
+  outline: #19D1FF double;
+  outline-width: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  background-image: url("http://i.imgur.com/j9gDRmJ.png");
+  background-color: #000000;
+  background-repeat: no-repeat;
+  color: lime;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.udacity-logo {
+  max-height: 100%;
+  max-width: 20%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  width: 80%;
+  font-weight: normal;
+  font-size: 40px;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  color: lime;
+}
+/* MAIN SECTIONS */
+
+.hero {
+  padding: 35px;
+  max-width: 100%;
+  max-height: 100%;
+  color: #19D1FF;
+  font-size: 32px;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+  outline: #19D1FF double;
+  outline-width: 10px;
+  background-image: url("http://i.imgur.com/j9gDRmJ.png");
+  background-color: #000000;
+  background-repeat: no-repeat;
+  margin-bottom: 10%;
+}
+
+.my_pic {
+  display: block;
+  margin: 0 auto 10px;
+  width: 50%;
+  border: 2px solid #19D1FF;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 50%;
+}
+
+.iama {
+  max-width: 100%;
+  color: #19D1FF;
+  letter-spacing: 0.05em;
+  font-size: 20px;
+  margin: 0;
+}
+
+.my-info {
+  max-width: 100%;
+  font-size: 22px;
+  margin: 0 auto 20px;
+  color: lime;
+}
+
+.my-info:last-of-type {
+  margin: 0;
+  color: lime;
+}
+
+.my-name {
+  color: lime;
+}
+
+.about-me {
+  padding: 1em;
+  color: lime;
+}
